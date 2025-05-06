@@ -4,7 +4,7 @@ go 1.24.2
 
 replace github.com/carsonmcdonald/go-combustion => ../
 
-require github.com/carsonmcdonald/go-combustion v0.0.0-00010101000000-000000000000
+require github.com/carsonmcdonald/go-combustion v0.1.0
 
 require (
 	github.com/go-ole/go-ole v1.2.6 // indirect
